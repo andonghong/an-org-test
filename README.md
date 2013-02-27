@@ -5,12 +5,12 @@ an-org-test
  - change ssh.
  - change in up.
  - ssh change 2 name keys.
- - linux deepin : ÃÜÂë·ÉÁ÷Ö±ÏÂÈıÇ§³ßÅ¶.
+ - linux deepin : å¯†ç é£æµç›´ä¸‹ä¸‰åƒå°ºå“¦.
 
 Customization
 ===========
 
-pvaixaan:
+pvaixa11:
 
     call ExpandColumn(',')
 
