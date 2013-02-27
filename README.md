@@ -5,7 +5,7 @@ an-org-test
  - change ssh.
  - change in up.
  - ssh change 2 name keys.
- - linux deepin : å¯†ç é£æµç›´ä¸‹ä¸‰åƒå°ºå“¦.
+ - linux deepin : ÃÜÂë·ÉÁ÷Ö±ÏÂÈıÇ§³ßÅ¶.
 
 Customization
 ===========
