@@ -6,6 +6,7 @@ an-org-test
  - change in up.
  - ssh change 2 name keys.
  - linux deepin : 密码飞流直下三千尺哦.
+ - begin normal work.
 
 Customization
 ===========
