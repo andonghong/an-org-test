@@ -17,7 +17,8 @@
 * TODO 加一套跳转策略配置
 	跳转策略与方案关联，然后再关联模板
 	跳转策略配置基础已经完成，下一步与方案的模板实例进行映射
-	TpDataModeManager加一层对象实例缓存，
+	TpDataInstanceManager加一层对象实例缓存，
+	TpSummaryManager要加递归检测，防止栈溢出
 	TpSummaryManager加一层方案模板汇总缓存
 * TODO 各网插件开发
 * TODO 考虑加一套资源字段显示配置
