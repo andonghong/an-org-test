@@ -19,7 +19,8 @@
 	跳转策略配置基础已经完成，下一步与方案的模板实例进行映射
 	TpDataInstanceManager加一层对象实例缓存，已经加入
 	TpSummaryManager要加递归检测，防止栈溢出，已经加入
-	TpSummaryManager加一层方案模板汇总缓存
+	TpSummaryManager加一层方案模板汇总缓存，已经加入
+	TpJumpInstanceManager已经初具功能，需要进一步优化测试
 * TODO 各网插件开发
 * TODO 考虑加一套资源字段显示配置
 * TODO 拓扑资源信息配置
